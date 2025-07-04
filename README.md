@@ -1,4 +1,4 @@
-# Ranking de Ping-Pong com Streamlit
+# Ranking de Ping-Pong
 
 Este é um aplicativo web desenvolvido em Python com a biblioteca Streamlit para acompanhar e analisar os resultados de partidas de ping-pong. O aplicativo lê os dados de uma planilha pública do Google Sheets, calcula um ranking dinâmico com um sistema de pontos e bônus, e exibe os resultados de forma interativa.
 
